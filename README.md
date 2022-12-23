@@ -1,6 +1,6 @@
 # xavixe.github.io
 
-This is my first website, I hope you like my website:3
+This is my first website, I hope you like it:3
 
 ```                                                            @#
                                              .@@@@@@@@@@@@@@@@@@
